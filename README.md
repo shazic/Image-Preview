@@ -37,3 +37,9 @@ Inside this div, use the component `<image-uploader></image-uploader>`
 <image-uploader source="/initial/image/source.jpg" source-id="an-id-for-your-image"></image-uploader>
 ```
 The `source-id` would be used to define the `name` as well as `id` attributes of the component. So, if you want to submit a form, this is what the request would submit.
+
+## Screenshot
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/shazic/Image-Preview/master//screenshot/Image-Preview.png">
+</p> 
