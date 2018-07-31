@@ -1,0 +1,18 @@
+body, .screen {
+    background: linear-gradient(azure, white);
+}
+
+/*
+.navbar.navbar-dark, footer   {
+    background-color: rgb(36, 44, 82);
+}
+*/
+.navbar-brand-image {
+width:180px; 
+height:40px;
+}
+
+.input-form {
+    /*background:lightgray;*/
+    padding: 0.5em;
+}
